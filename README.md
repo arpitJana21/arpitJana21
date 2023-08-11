@@ -23,7 +23,7 @@ Hello there! I'm Arpit Jana, a NodeJS Backend Developer with a strong passion fo
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,typescript,cpp&theme=light)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,expressjs,mongodb,MySQL,redis,pug)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,expressjs,mongodb,mysql,redis,pug)](https://skillicons.dev)
 
 <h3 align="left">Dev Tools</h3>
 
