@@ -9,11 +9,21 @@ NodeJS Backend  Developer
 You can use the website to generate badges: https://shields.io/
 -->
 
-[![Portfolio Website](https://img.shields.io/badge/_Portfolio-1F4958?style=flat&logo=appveyor&logoColor=white)](https://arpitjana21.github.io/)
-[![HackeRrank](https://img.shields.io/badge/-Hackerrank-289f52?style=flat&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/arpitjana2103?hr_r=1)\
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/arpitjana2103/)
-[![Email](https://img.shields.io/badge/-Send_Email-red?style=flat&logo=gmail&logoColor=white)](mailto:arpitjana2103@gmail.com)
+<a href="https://arpitjana21.github.io/" target="_blank">
+  <img src="https://img.shields.io/badge/_Portfolio-1F4958?style=flat&logo=appveyor&logoColor=white" alt="Portfolio Website">
+</a>
 
+<a href="https://www.hackerrank.com/arpitjana2103?hr_r=1" target="_blank">
+  <img src="https://img.shields.io/badge/-Hackerrank-289f52?style=flat&logo=HackerRank&logoColor=white" alt="HackeRrank">
+</a>
+<br/>
+<a href="https://www.linkedin.com/in/arpitjana2103/" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" alt="Linkedin">
+</a>
+
+<a href="mailto:arpitjana2103@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/-Send_Email-red?style=flat&logo=gmail&logoColor=white" alt="Email">
+</a>
 
 
 &nbsp;
