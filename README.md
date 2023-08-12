@@ -9,7 +9,7 @@ NodeJS Backend  Developer
 You can use the website to generate badges: https://shields.io/
 -->
 
-[![Portfolio Website](https://img.shields.io/badge/_Portfolio-1F4958?style=flat&logo=appveyor&logoColor=white)](https://arpitjana21.github.io/)
+[![Portfolio Website](https://img.shields.io/badge/_Portfolio-1F4958?style=flat&logo=appveyor&logoColor=white)](https://arpitjana2103.github.io/)
 [![HackeRrank](https://img.shields.io/badge/-Hackerrank-289f52?style=flat&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/arpitjana2103?hr_r=1)\
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/arpitjana2103/)
 [![Email](https://img.shields.io/badge/-Send_Email-red?style=flat&logo=gmail&logoColor=white)](mailto:arpitjana2103@gmail.com)
@@ -30,8 +30,8 @@ Hello there! 👋 I'm Arpit Jana, a Node.js Backend Developer passionate about c
 
 <h3 align="left">GitHub Stats</h3>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arpitjana21&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arpitjana2103&layout=compact)
 
-![Aprpit's GitHub stats](https://github-readme-stats.vercel.app/api?username=arpitjana21\&rank_icon=github)
+![Aprpit's GitHub stats](https://github-readme-stats.vercel.app/api?username=arpitjana2103\&rank_icon=github)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=arpitjana21)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=arpitjana2103)
