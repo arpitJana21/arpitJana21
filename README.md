@@ -17,8 +17,7 @@ You can use the website to generate badges: https://shields.io/
 
 
 &nbsp;
-Hello there! 👋 I'm Arpit Jana, a NodeJS Backend Developer passionate about crafting efficient and scalable web solutions. My tech stack includes NodeJS, ExpressJS, and MongoDB. With over 1500 hours of coding experience, I'm dedicated to creating seamless backend architectures that empower outstanding user experiences on the front end. Although new to the professional field, I am enthusiastic, driven, and ready to take on exciting challenges. Let's collaborate and turn your ideas into reality with cutting-edge technologies that will elevate your web applications to new heights.
-
+Hello there! 👋 I'm Arpit Jana, a NodeJS Backend Developer with a strong passion for crafting efficient and scalable web solutions. My tech stack includes NodeJS, ExpressJS, and MongoDB. With over 1500 hours of coding experience, I'm dedicated to creating seamless backend architectures that empower outstanding user experiences on the frontend. Although I'm new to the professional field, I am enthusiastic, driven, and ready to take on exciting challenges. Let's collaborate and turn your ideas into reality with cutting-edge technologies that will elevate your web applications to new heights.
  
 <h3 align="left">Tech Stack</h3>
 
@@ -33,5 +32,5 @@ Hello there! 👋 I'm Arpit Jana, a NodeJS Backend Developer passionate about cr
 <h3 align="left">GitHub Stats</h3>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arpitjana21&layout=compact)
-
+![Aprpit's GitHub stats](https://github-readme-stats.vercel.app/api?username=arpitjana21\&rank_icon=github)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=arpitjana21)](https://git.io/streak-stats)
