@@ -36,15 +36,5 @@ Hello there! I'm Arpit Jana, a NodeJS Backend Developer with a strong passion fo
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=arpitjana21)](https://git.io/streak-stats)
 
 
-
 <br/>
-<br/>
-<br/>
-
-<!--profile visit count-->
-<div align="center">
-
-[![](https://visitcount.itsvg.in/api?id=arpitjana21&label=Profile%20Views&color=6&icon=5&pretty=false)](https://visitcount.itsvg.in)
-  
-</div>
 
