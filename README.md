@@ -14,25 +14,19 @@ You can use the website to generate badges: https://shields.io/
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/arpitjana2103/)
 [![Email](https://img.shields.io/badge/-Send_Email-red?style=flat&logo=gmail&logoColor=white)](mailto:arpitjana2103@gmail.com)
 
-
-
 &nbsp;
 Hello there! 👋 I'm Arpit Jana, a NodeJS Backend Developer with a strong passion for crafting efficient and scalable web solutions. My tech stack includes NodeJS, ExpressJS, and MongoDB. With over 1500 hours of coding experience, I'm dedicated to creating seamless backend architectures that empower outstanding user experiences on the frontend. Although I'm new to the professional field, I am enthusiastic, driven, and ready to take on exciting challenges. Let's collaborate and turn your ideas into reality with cutting-edge technologies that will elevate your web applications to new heights.
-
-<a href="https://arpitjana21.github.io/" target="_blank">
-  <img src="https://img.shields.io/badge/_Portfolio-1F4958?style=flat&logo=appveyor&logoColor=white" alt="Portfolio Website">
-</a>
 
  
 <h3 align="left">Tech Stack</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,typescript,cpp&theme=light)](https://skillicons.dev)
+![My Skills](https://skillicons.dev/icons?i=html,css,js,typescript,cpp&theme=light)
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,expressjs,mongodb,mysql,redis,pug)](https://skillicons.dev)
+![My Skills](https://skillicons.dev/icons?i=nodejs,expressjs,mongodb,mysql,redis,pug)
 
 <h3 align="left">Dev Tools</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,git,github,postman,githubactions,aws)](https://skillicons.dev)
+![My Skills](https://skillicons.dev/icons?i=vscode,git,github,postman,githubactions,aws)
 
 <h3 align="left">GitHub Stats</h3>
 
@@ -40,5 +34,4 @@ Hello there! 👋 I'm Arpit Jana, a NodeJS Backend Developer with a strong passi
 
 ![Aprpit's GitHub stats](https://github-readme-stats.vercel.app/api?username=arpitjana21\&rank_icon=github)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=arpitjana21)](https://git.io/streak-stats)
-
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=arpitjana21)
