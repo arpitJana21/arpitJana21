@@ -9,8 +9,7 @@ NodeJS Backend  Developer
 You can use the website to generate badges: https://shields.io/
 -->
 
-[![GitHub ](https://img.shields.io/badge/GitHub-@arpitjana2103-white?style=flat&logo=GitHub&link=https://github.com/arpitjana2103)](https://github.com/arpitjana2103)
-[![Portfolio ](https://img.shields.io/badge/Portfilio-arpitjana2103.github.io-white?style=flat&logo=appveyor&logoColor=white&link=https://arpitjana2103.github.io/)](https://arpitjana2103.github.io/)\
+[![Portfolio ](https://img.shields.io/badge/Portfilio-arpitjana2103.github.io-white?style=flat&logo=appveyor&logoColor=white&link=https://arpitjana2103.github.io/)](https://arpitjana2103.github.io/)
 [![LinkedIn ](https://img.shields.io/badge/LinkedIn-@arpitjana2103-0077b5?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arpitjana2103/)](https://www.linkedin.com/in/arpitjana2103/)
 [![Hackerrank ](https://img.shields.io/badge/Hackerrank-@arpitjana2103-2f9e44?style=flat&logo=Hexo&logoColor=white&link=https://www.linkedin.com/in/arpitjana2103/)](https://www.linkedin.com/in/arpitjana2103/)
 [![Gmail ](https://img.shields.io/badge/Email-arpitjana2103@gmail.com-red?style=flat&logo=gmail&logoColor=white&link=https://www.linkedin.com/in/arpitjana2103/)](https://www.linkedin.com/in/arpitjana2103/)
