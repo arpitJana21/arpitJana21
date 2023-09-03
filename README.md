@@ -21,11 +21,12 @@ Hello there! 👋 I'm Arpit Jana, a Node.js Backend Developer passionate about c
 
 ![Tech Stack](https://skillicons.dev/icons?i=html,css,js,typescript,cpp&theme=light)
 
-![Tech Stack](https://skillicons.dev/icons?i=nodejs,expressjs,mongodb,mysql,redis,pug)
+![Tech Stack](https://skillicons.dev/icons?i=nodejs,expressjs,mongodb,mysql,pug)
 
 <h3 align="left">Dev Tools</h3>
 
-![Dev Tools](https://skillicons.dev/icons?i=vscode,git,github,postman,githubactions,aws)
+![Dev Tools](https://skillicons.dev/icons?i=vscode,git,github,postman)
+&nbsp;<img src="https://i.postimg.cc/jSzDHYC5/2023-09-03-23-56-48.png" height="48" style="border-radius: 11px;"></img>
 
 <h3 align="left">GitHub Stats</h3>
 
