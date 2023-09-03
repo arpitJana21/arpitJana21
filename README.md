@@ -26,7 +26,8 @@ Hello there! 👋 I'm Arpit Jana, a Node.js Backend Developer passionate about c
 <h3 align="left">Dev Tools</h3>
 
 ![Dev Tools](https://skillicons.dev/icons?i=vscode,git,github,postman)
-&nbsp;<img src="https://i.postimg.cc/jSzDHYC5/2023-09-03-23-56-48.png" height="48" style="border-radius: 11px;"></img>
+
+<img src="https://i.postimg.cc/cLmDLHwM/2023-09-04-00-03-14.png" height="48" style="border-radius: 11px;"></img>
 
 <h3 align="left">GitHub Stats</h3>
 
