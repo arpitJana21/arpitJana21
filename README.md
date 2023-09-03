@@ -11,7 +11,6 @@ You can use the website to generate badges: https://shields.io/
 
 [![Portfolio ](https://img.shields.io/badge/Portfilio-arpitjana21.github.io-white?style=flat&logo=appveyor&logoColor=white&link=https://arpitjana21.github.io/)](https://arpitjana21.github.io/)
 [![LinkedIn ](https://img.shields.io/badge/LinkedIn-@arpitjana2103-0077b5?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arpitjana2103/)](https://www.linkedin.com/in/arpitjana2103/)
-[![Hackerrank ](https://img.shields.io/badge/Hackerrank-@arpitjana2103-2f9e44?style=flat&logo=Hexo&logoColor=white&link=https://www.hackerrank.com/arpitjana2103)](https://www.hackerrank.com/arpitjana2103)
 [![Gmail ](https://img.shields.io/badge/Email-arpitjana2103@gmail.com-red?style=flat&logo=gmail&logoColor=white&link=mailto:arpitjana2103@gmail.com)](mailto:arpitjana2103@gmail.com)
 
 &nbsp;
