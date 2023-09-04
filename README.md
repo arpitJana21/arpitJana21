@@ -21,7 +21,7 @@ Hello there! 👋 I'm Arpit Jana, a Node.js Backend Developer passionate about c
 
 ![Tech Stack](https://skillicons.dev/icons?i=html,css,js,typescript,cpp&theme=light)
 
-![Tech Stack](https://skillicons.dev/icons?i=nodejs,expressjs,mongodb,mysql,pug)
+![Tech Stack](https://skillicons.dev/icons?i=nodejs,expressjs,mongodb,mysql,pug,tailwind)
 
 <h3 align="left">Dev Tools</h3>
 
