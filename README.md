@@ -34,5 +34,3 @@ Hello there! 👋 I'm Arpit Jana, a Node.js Backend Developer passionate about c
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arpitjana2103&layout=compact)
 
 ![Aprpit's GitHub stats](https://github-readme-stats.vercel.app/api?username=arpitjana2103\&rank_icon=github)
-
-[//]: #  (![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=arpitjana2103))
