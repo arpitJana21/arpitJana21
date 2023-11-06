@@ -11,8 +11,9 @@ You can use the website to generate badges: https://shields.io/
 
 [![Portfolio ](https://img.shields.io/badge/Portfilio-arpitjana2103.netlify.app-7FE18B?style=flat&logo=appveyor&logoColor=white&link=https://arpitjana2103.netlify.app/)](https://arpitjana2103.netlify.app/)
 [![LinkedIn ](https://img.shields.io/badge/LinkedIn-@arpitjana2103-99e9f2?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arpitjana2103/)](https://www.linkedin.com/in/arpitjana2103/)
+[![Leetcode](https://img.shields.io/badge/Leetcode-arpitjana2103-ffec99?style=flat&logo=leetcode&logoColor=white&link=https://leetcode.com/arpitjana2103/)](https://leetcode.com/arpitjana2103/)
 [![Gmail ](https://img.shields.io/badge/Email-arpitjana2103@gmail.com-ffc9c9?style=flat&logo=gmail&logoColor=white&link=mailto:arpitjana2103@gmail.com)](mailto:arpitjana2103@gmail.com)
-[![](https://img.shields.io/badge/Leetcode-arpitjana2103-ffec99?style=flat&logo=leetcode&logoColor=white&link=https://leetcode.com/arpitjana2103/)](https://leetcode.com/arpitjana2103/)
+
 
 #FFDC04
 #FFA116
